@@ -30,3 +30,7 @@
    2. Staged
    3. Committed
  
+<h1>3 methods of git reset?</h1><br/>
+   1. Soft
+   2. Mixed
+   3. Hard
