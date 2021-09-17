@@ -20,3 +20,6 @@
    10. Automatic Software Updates
    11. Competitive Edge
    12. Sustainability
+
+<h1>What are the benefits of Cloud Computing</h1><br/>
+Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories
