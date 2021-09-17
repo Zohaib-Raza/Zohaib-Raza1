@@ -22,4 +22,11 @@
    12. Sustainability
 
 <h1>What are the benefits of Cloud Computing</h1><br/>
-Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories
+   Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories
+
+
+<h1>Stages of Git</h1><br/>
+   1. Modified 
+   2. Staged
+   3. Committed
+ 
